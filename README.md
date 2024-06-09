@@ -1,4 +1,4 @@
-A FOOD Ordering MERN APP
+#A FOOD Ordering MERN APP
 
 - Register/login functionalites using JWT token.
 - User information is stored in the MongoDB database.
