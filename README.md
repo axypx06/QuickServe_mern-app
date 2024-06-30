@@ -9,7 +9,7 @@
 
   ![image](https://github.com/axypx06/QuickServe_mern-app/assets/110666919/3192c688-9136-4646-9a02-14a37a60c165)
   
-#Sign-Up Page
+# Sign-Up Page
 
   ![image](https://github.com/axypx06/QuickServe_mern-app/assets/110666919/f220513a-5acf-446f-8707-b7db6ce02b47)
 
